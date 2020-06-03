@@ -7,6 +7,8 @@ body {
    overflow-x: hidden;
    font-family: 'Bree Serif', serif;
    color: #6c7a86;
+   margin: 0;
+   padding: 0;
 }
 
 .offset:before {
