@@ -164,7 +164,7 @@
 <div class="row justify-content-center">
 
 	<div class="col-md-5 text-center">
-	   <p>Knowing me from here does not mean people can completely judge who I really am. However, always remember when getting know someone better that "Sometimes people not change, but you actually finally see who they truly are"</p>
+	   <p>Knowing me from here does not mean people can completely judge who I really am. However, "Sometimes people not change, but you actually finally see who they truly are"</p>
 	   <strong>Contact Me</strong><br>
 	   <p>nurfarahizzahabdulrashid@gmail.com<br>013 456 0557</p>
 	   <a href="https://www.instagram.com/nfrhrashid/" target="_blank"><i class="fab fa-instagram"></i></a>
