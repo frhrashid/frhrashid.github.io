@@ -74,7 +74,7 @@
 		<div class="born">
 		   <i class="fas fa-baby fa-4x" data-fa-transform="shrink-3 up=5"></i>
 		   <h4>Sept baby</h4>
-		   <p>On September 27, 1999 at Hospital Besar Melaka, <br> I was born. Growing up with three older brothers <br> and as an only daughter</p>
+		   <p>On September 27, 1999 at Hospital Besar Melaka, <br> I, Nurfarah Izzah Abdul Rashid, was born. <br> Growing up with three older brothers <br> and as an only daughter</p>
 		</div>
 	   </div>
 
